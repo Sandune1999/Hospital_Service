@@ -1,0 +1,7 @@
+{
+  "timestamp": "2025-11-29T20:49:02.229Z",
+  "path": "/api/patients",
+  "status": 404,
+  "error": "Not Found",
+  "requestId": "5cdcea26-1"
+}

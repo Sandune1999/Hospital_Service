@@ -1,0 +1,12 @@
+### Create request for Patient entity
+POST http://localhost:4000/patients
+Content-Type: application/json
+
+{
+  "name": "producr2 Kafka",
+  "email": "producr2kafka@gmail.com",
+  "address": "log-town",
+  "dateOfBirth": "1982-04-30",
+  "registeredDate": "2019-11-10"
+}
+###
